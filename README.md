@@ -4,7 +4,7 @@ Swiftly capture and save your ideas.
 
 ## Overview
 
-The Idea Recorder Chrome Extension is a productivity tool designed to help users capture their ideas conveniently while working on other tasks. It allows users to record their thoughts, tasks, or any inspiration they come across without interrupting their workflow. With a simple keyboard shortcut, users can access the extension, making it easy to capture and revisit their ideas later.
+The QuickIdea Chrome Extension is a productivity tool designed to help users capture their ideas conveniently while working on other tasks. It allows users to record their thoughts, tasks, or any inspiration they come across without interrupting their workflow. With a simple keyboard shortcut, users can access the extension, making it easy to capture and revisit their ideas later.
 
 ## Problem Statement
 
@@ -12,7 +12,7 @@ Often, while working or reading, we encounter valuable ideas, such as what to re
 
 ## Features
 
-The Idea Recorder Chrome Extension offers the following features:
+The QuickIdea Chrome Extension offers the following features:
 
 1. **Convenient Shortcut**: Users can access the extension quickly by hitting the keyboard shortcut `Ctrl+Shift+0`, ensuring that ideas can be captured with minimal interruption.
 
@@ -30,7 +30,7 @@ The Idea Recorder Chrome Extension offers the following features:
 
 ## How to Use
 
-1. **Installation**: You can install the Idea Recorder Chrome Extension directly from the Chrome Web Store.
+1. **Installation**: You can install the QuickIdea Chrome Extension directly from the Chrome Web Store.
 
 2. **Keyboard Shortcut**: Once installed, use the keyboard shortcut `Ctrl+Shift+0` to activate the extension and begin recording your ideas.
 
@@ -38,13 +38,13 @@ The Idea Recorder Chrome Extension offers the following features:
 
 ## Contribution
 
-We welcome contributions from the open-source community to enhance the Idea Recorder Chrome Extension. Feel free to fork this repository, make improvements, and submit pull requests. Your contributions will help make this tool even more valuable to users.
+We welcome contributions from the open-source community to enhance the QuickIdea Chrome Extension. Feel free to fork this repository, make improvements, and submit pull requests. Your contributions will help make this tool even more valuable to users.
 
 ## TODO
 
-[ ] Sync with Obsidian
-[ ] Enhance Appearance
-[ ] cross platform application
+- [ ] Sync with Obsidian
+- [ ] Enhance Appearance
+- [ ] cross platform application
 
 ## License
 
