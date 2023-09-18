@@ -1,7 +1,6 @@
 chrome.commands.onCommand.addListener((command) => {
-  if (command === "run-foo") {
+  if (command === "qi") {
     openPopupWindow();
-    // chrome.action.setPopup({ popup: "./popup.html" });
   }
 });
 
@@ -20,8 +19,6 @@ function openPopupWindow() {
       top: top,
       width: width,
       height: height,
-      // width: 300, // Define the width of the popup window
-      // height: 200, // Define the height of the popup window
     });
   });
 }

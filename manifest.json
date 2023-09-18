@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Brain Dump",
+  "name": "QuickIdea",
   "version": "1.0",
-  "description": "Brain dump",
+  "description": "Swiftly capture and save your ideas.",
   "background": {
     "service_worker": "background.js"
   },
@@ -16,12 +16,12 @@
   },
   "permissions": ["activeTab", "commands", "storage"],
   "commands": {
-    "run-foo": {
+    "qi": {
       "suggested_key": {
         "default": "Ctrl+Shift+0",
         "mac": "Command+Shift+0"
       },
-      "description": "Run \"foo\" on the current page."
+      "description": "Run \"quickIdea\" on the current page."
     },
     "_execute_action": {
       "suggested_key": {
