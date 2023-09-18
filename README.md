@@ -16,6 +16,10 @@ The Idea Recorder Chrome Extension offers the following features:
 
 1. **Convenient Shortcut**: Users can access the extension quickly by hitting the keyboard shortcut `Ctrl+Shift+0`, ensuring that ideas can be captured with minimal interruption.
 
+---
+
+### Yet to implement
+
 2. **Sync with Obsidian**: The extension allows users to sync their recorded ideas with Obsidian, a popular note-taking and knowledge management tool. This ensures that captured ideas seamlessly integrate with their note-taking workflow.
 
 3. **Enhanced Appearance**: The extension includes CSS styling to improve its visual aesthetics, providing users with a more pleasant and user-friendly interface.
@@ -30,9 +34,7 @@ The Idea Recorder Chrome Extension offers the following features:
 
 2. **Keyboard Shortcut**: Once installed, use the keyboard shortcut `Ctrl+Shift+0` to activate the extension and begin recording your ideas.
 
-3. **Sync with Obsidian**: To sync your ideas with Obsidian, configure the extension's settings and provide the necessary authentication details for Obsidian.
-
-4. **Capture and Save**: Type or paste your ideas into the dialog box and save them for later reference.
+3. **Capture and Save**: Type or paste your ideas into the dialog box and save them for later reference.
 
 ## Contribution
 
