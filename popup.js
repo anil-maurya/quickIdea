@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 
   chrome.storage.local.get(["brainDump"], (result) => {
-    data = result.brainDump;
+    data = result.brainDump || [];
     render();
   });
 
